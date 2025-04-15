@@ -108,7 +108,7 @@ class _AuthScreenState extends State<AuthScreen> {
                         );
                       }
 
-                      if (success) {
+                      if (!success) {
                         Navigator.pushReplacement(
                           context,
                           MaterialPageRoute(builder: (_) => const HomeScreen()),
