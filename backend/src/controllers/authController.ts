@@ -1,4 +1,3 @@
-// src/controllers/authController.ts
 import { Request, Response } from 'express';
 import UserFacade from '../services/userFacade';
 import asyncHandler from '../middleware/asyncHandler';

@@ -1,4 +1,3 @@
-// src/services/eventFacade.ts
 import { IEvent } from '../models/eventModel';
 import EventValidationService from './event/validationService';
 import EventPersistenceService from './event/persistenceService';

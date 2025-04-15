@@ -1,4 +1,3 @@
-// src/controllers/eventController.ts
 import { Request, Response } from 'express';
 import EventFacade from '../services/eventFacade';
 import asyncHandler from '../middleware/asyncHandler';

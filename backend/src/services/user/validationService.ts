@@ -1,4 +1,3 @@
-// src/services/user/validationService.ts
 import { IUser } from '../../models/userModel';
 
 class UserValidationService {

@@ -1,4 +1,3 @@
-// src/services/user/persistenceService.ts
 import UserModel, { IUser } from '../../models/userModel';
 
 class UserPersistenceService {

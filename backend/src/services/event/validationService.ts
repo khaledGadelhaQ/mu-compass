@@ -1,4 +1,3 @@
-// src/services/event/validationService.ts
 import { IEvent } from '../../models/eventModel';
 
 class EventValidationService {

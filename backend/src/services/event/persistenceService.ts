@@ -1,4 +1,3 @@
-// src/services/event/persistenceService.ts
 import EventModel, { IEvent } from '../../models/eventModel';
 
 class EventPersistenceService {
